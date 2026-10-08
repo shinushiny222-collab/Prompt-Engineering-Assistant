@@ -19,6 +19,9 @@ The application supports:
 
 The application uses Google Gemini as the LLM and Streamlit for the user interface.
 
+## Demo
+https://prompt-engineering-assistant-e34ce5bpcgnygsh25fwvcd.streamlit.app/
+
 ## Features
 
 ### 1. Zero-shot Prompting
