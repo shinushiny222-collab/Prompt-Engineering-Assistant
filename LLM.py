@@ -3,7 +3,7 @@ import os
 from google import genai
 
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.5-flash-lite"
 
 
 def generate_response(prompt, temperature=0.4, max_tokens=1200):
